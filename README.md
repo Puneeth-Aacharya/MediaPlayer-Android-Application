@@ -16,3 +16,9 @@ It consist of one Image , Seekbar, Play/Pause button , forward and backward Imag
 # Video Player
 When we click on the VideoPlayer button in main page it will navigate to this page.  
 It will play the video provided in the raw folder. It has a basic actions like play/pause ,forward and backward.  
+
+## Contributors.
+
+<a href="https://github.com/Puneeth-Aacharya/MediaPlayer-Android-Application/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Puneeth-Aacharya/MediaPlayer-Android-Application" />
+</a>
