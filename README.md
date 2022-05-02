@@ -22,3 +22,6 @@ It will play the video provided in the raw folder. It has a basic actions like p
 <a href="https://github.com/Puneeth-Aacharya/MediaPlayer-Android-Application/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Puneeth-Aacharya/MediaPlayer-Android-Application" />
 </a>
+
+If you like repository ⭐ the repository.
+Thank You
