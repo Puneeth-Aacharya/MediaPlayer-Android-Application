@@ -23,5 +23,9 @@ It will play the video provided in the raw folder. It has a basic actions like p
   <img src="https://contrib.rocks/image?repo=Puneeth-Aacharya/MediaPlayer-Android-Application" />
 </a>
 
+## Demo:
+
+<a href="https://youtu.be/4RHQEfGTVj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
+
 If you like repository ⭐ the repository.
 Thank You
